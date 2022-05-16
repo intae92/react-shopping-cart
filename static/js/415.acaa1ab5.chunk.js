@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_shopping_cart=self.webpackChunkreact_shopping_cart||[]).push([[415],{5415:function(c,t,e){e.r(t);var n=e(2791),s=e(6871);t.default=function(){var c=(0,s.s0)();(0,n.useEffect)((function(){c("/products")}),[c])}}}]);
+//# sourceMappingURL=415.acaa1ab5.chunk.js.map
