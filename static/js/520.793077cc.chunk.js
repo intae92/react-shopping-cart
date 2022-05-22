@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_shopping_cart=self.webpackChunkreact_shopping_cart||[]).push([[520],{4520:function(e,n,t){t.r(n);t(2791);var c=t(184);n.default=function(){return(0,c.jsx)("div",{children:"NotFoundPage"})}}}]);
+//# sourceMappingURL=520.793077cc.chunk.js.map
